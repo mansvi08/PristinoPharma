@@ -230,7 +230,7 @@ const Blog = () => {
                 >
                   Read More
                 </button>
-                {/*<button
+                <button
                   onClick={() => navigate("/article", { state: { blog } })}
                   className="bg-yellow-600 hover:bg-pink-800 text-white border-none py-2.5 px-5 rounded-full text-xs font-bold cursor-pointer uppercase tracking-wider transition-colors duration-300"
                 >
